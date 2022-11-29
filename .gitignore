@@ -131,3 +131,6 @@ dmypy.json
 # dont sync csv and txt files
 *.csv
 *.txt
+
+# dont sync data folder
+/data
