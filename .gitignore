@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dont sync csv and txt files
+*.csv
+*.txt
